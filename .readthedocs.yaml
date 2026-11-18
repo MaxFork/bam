@@ -15,8 +15,9 @@ build:
   commands:
     # Install myst
     - npm install -g mystmd
-    # Build the site
-    - myst build --html
+    # Build the site. RTD serves docs under /<language>/<version>/,
+    # so asset URLs need that prefix or styles and scripts 404.
+    - BASE_URL=/$READTHEDOCS_LANGUAGE/$READTHEDOCS_VERSION myst build --html
     # Copy the output to Read the Docs expected location
     - mkdir -p $READTHEDOCS_OUTPUT/html/
     - cp -r _build/html/. "$READTHEDOCS_OUTPUT/html"
