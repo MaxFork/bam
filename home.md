@@ -2,11 +2,11 @@
 
 ## Pull up a chair, grab a tasty beverage to wash this down, and explore a pipeline of structured ideas
 
-# The John Bampton GitHub Learning Model
+## The John Bampton GitHub Learning Model
 
 To mathematically define John Bampton's philosophy of using GitHub as an engine for autodidactic learning, we can model it through three interconnected equations: Knowledge Accumulation, the Feedback Loop, and Community Synergy.
 
-## 1. Cumulative Knowledge
+### 1. Cumulative Knowledge
 
 John's approach treats learning as a compounding function of continuous open-source activity over time ($t$).
 
@@ -22,7 +22,7 @@ Where:
 * **$D(t)$**: Code review depth and documentation reading (the "absorbing").
 * **$\lambda$**: Learning efficiency coefficient of an autodidact.
 
-## 2. The Iterative Debugging Loop
+### 2. The Iterative Debugging Loop
 
 True mastery on GitHub comes from breaking code, getting feedback, and fixing it. We can model this iterative learning speed using an optimization gradient descent formula:
 
@@ -38,7 +38,7 @@ Where:
 
 Read more about [The Mechanics of Modern Optimization: Gradient Descent and Beyond](gradient-descent-algorithm.md).
 
-## 3. The Open-Source Network Effect
+### 3. The Open-Source Network Effect
 
 John's philosophy relies on public learning scaling differently than private learning, governed by a modified Metcalfe's Law:
 
