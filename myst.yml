@@ -29,7 +29,6 @@ site:
   title: The Tasty Beverage
   options:
     logo_text: The Tasty Beverage
-    style: ./assets/style.css
   parts:
     footer: footer.md
   actions:
