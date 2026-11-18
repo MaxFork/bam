@@ -14,7 +14,7 @@ build:
     nodejs: "24"
   commands:
     # Install myst
-    - npm install -g mystmd
+    - npm install -g mystmd@1.13.0
     # Build the site. RTD serves docs under /<language>/<version>/,
     # so asset URLs need that prefix or styles and scripts 404.
     - BASE_URL=/$READTHEDOCS_LANGUAGE/$READTHEDOCS_VERSION myst build --html
