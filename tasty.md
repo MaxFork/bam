@@ -5,9 +5,19 @@ keywords: ["journal", "open source", "MyST", "puzzles", "PlayStation"]
 
 # Another One Bites The Dust
 
+## Saturday 21st November 2026
+
+- Woke up early around 6:45am. My friend came to visit again at about 11am he played Fortnite on the PlayStation 5. We had toasted cheese sandwiches for lunch again. So last time I went shopping at Woolworths I bought the cheap [Woolworths](https://en.wikipedia.org/wiki/Woolworths_(Australia)) brand cheese slices for about $7.50 AUS but I find this particular cheese seems to go stale quicker. Seems this cheese or creating process is similar to the Woolworths bakery bread that normally only lasts 3 days.
+- My friend arrived with 3 bottles of 1.25 soft drink 
+
+## Friday 20th November 2026
+
+- A friend came to visit and he drank 5 beers. We had toasted cheese sandwiches for lunch.
+
 ## Thursday 19th November 2026
 
 - Woke up very early in darkness and began the day watching Red Bull TV on my PlayStation 5 with some fantastic downhill mountain biking
+- My friend [Seyyed Ali](https://github.com/BaseMax) helped fix a display bug in this site
 
 ## Monday 6th July 2026
 
